@@ -125,7 +125,7 @@ console.log(cervezasOrdenadasPropiedad(beers,"ibu",false))
 
 // Ejercicio 11
 
-function crearTablaCervezas(cervezas,idHtml){
+/* function crearTablaCervezas(cervezas,idHtml){
     let html = document.querySelector(idHtml)
     let tablaCompleta = `<tr class="border-black border bg-black text-white text-2xl">
     <th class="border-black border">Nombre</th>
@@ -144,7 +144,7 @@ function crearTablaCervezas(cervezas,idHtml){
     html.innerHTML = tablaCompleta
 }
 
-crearTablaCervezas(beers,"#tablas")
+crearTablaCervezas(beers,"#tablas") */
 
 
 
